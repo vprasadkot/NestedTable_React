@@ -1,0 +1,16 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      #   install node 12
+      
+      #   install Yarn
+  pre_build:
+    commands:
+      # install dependencies
+  build:
+    commands:
+      # tests
+      # build
+    
